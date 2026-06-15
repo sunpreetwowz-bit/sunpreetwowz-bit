@@ -53,6 +53,13 @@ Here are some ideas to get you started: -->
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
+## 🛠️ Skills
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
 ## 🚀 Featured Projects
 
 ### Salary Hike Calculator
