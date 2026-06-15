@@ -1,5 +1,5 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Sunpreet Shah</h1>
-
+<h3 align="center">PHP Laravel | CodeIgniter | React JS Developer</h3>
 <!--
 **sunpreetwowz-bit/sunpreetwowz-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
@@ -17,19 +17,15 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Website](https://sunpreet-portfolio.vercel.app/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on Laravel & React Projects.
+  
+- 🌱 Learning Advanced React & Node.js
 
-- 🌱 I’m currently learning `MERN Stack`
+- 👯 Looking to collaborate on Web Development Projects
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 💬 Ask me about PHP, Laravel, CodeIgniter, React, MySQL
 
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
-- ⚡ Fun fact: I waste most of my time playing games
+- 📫 Reach me at: **sunpreet.wowz@gmail.com**
 
 ## 🛠️ Technologies and Tools I use:
 
@@ -57,6 +53,17 @@ Here are some ideas to get you started: -->
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
+## 🚀 Featured Projects
+
+### Salary Hike Calculator
+React application for calculating salary hikes.
+
+### Job Seeker
+Laravel-based Job Portal.
+
+### Martial Art Backend
+PHP Backend Development Project.
+
 ## ❤️ Let's get connected:
 
 <p><a href="https://sunpreet-portfolio.vercel.app/" target="_blank"><img alt="Github" src="" /></a> <a href="https://www.linkedin.com/in/sunpreet-shah-78544291/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  <a href="https://www.instagram.com/shaansunpreet" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
@@ -66,4 +73,11 @@ Here are some ideas to get you started: -->
 
 <a href="https://buymeacoffee.com/sunpreetshah" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
+## 📊 My GitHub Data:
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunpreetwowz-bit&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunpreetwowz-bit&layout=compact" alt="sunpreetwowz" />
+</div>
+
+![](https://komarev.com/ghpvc/?username=sunpreetwowz-bit)
