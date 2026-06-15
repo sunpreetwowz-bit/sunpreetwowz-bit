@@ -62,6 +62,9 @@ Here are some ideas to get you started: -->
 
 ## 🚀 Featured Projects
 
+### Casino Web Application
+Web Application of Casino
+
 ### Salary Hike Calculator
 React application for calculating salary hikes.
 
@@ -69,11 +72,22 @@ React application for calculating salary hikes.
 Laravel-based Job Portal.
 
 ### Martial Art Backend
-PHP Backend Development Project.
+Laravel Backend Development Project of Martial Art.
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://sunpreet-portfolio.vercel.app/" target="_blank"><img alt="Github" src="" /></a> <a href="https://www.linkedin.com/in/sunpreet-shah-78544291/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>  <a href="https://www.instagram.com/shaansunpreet" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p align="center">
+  <a href="https://sunpreet-portfolio.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20Website-success?style=for-the-badge" height="30px"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sunpreet-shah-78544291/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
+  </a>
+
+  <a href="https://www.instagram.com/shaansunpreet" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/>
+  </a>
 </p>
 
 ## 🤝 Support Me:
