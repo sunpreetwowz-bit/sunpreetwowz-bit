@@ -62,8 +62,11 @@ Here are some ideas to get you started: -->
 
 ## 🚀 Featured Projects
 
+### Scheduleparlor Web Application
+Laravel based Web Application of Booking a photographer
+
 ### Casino Web Application
-Web Application of Casino
+Laravel based Web Application of Casino
 
 ### Salary Hike Calculator
 React application for calculating salary hikes.
